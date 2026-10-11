@@ -1,0 +1,6 @@
+Round A — forecast 1544, inventory 1450, period July
+Round B — forecast 1046, inventory 700, period October
+Round C — forecast 890, inventory 620, period January
+Round D — forecast 1500, inventory 400, period February
+Round E — forecast 1300, inventory 1350, period March
+Round F — forecast 1100, inventory 550, period April
